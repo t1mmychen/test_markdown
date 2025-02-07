@@ -1,6 +1,6 @@
 ---
-title: "test_web"
-output: 
+title: "index"
+output:
  html_document:
   toc: true
   toc_float: true
@@ -15,8 +15,4 @@ output:
 ```
 
 # boh 
-
-```{r}
-
-```
 
